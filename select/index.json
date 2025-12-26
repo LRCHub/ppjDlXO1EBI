@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "抱きしめてシュヴァルツ",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-26T18:17:51.804230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "抱きしめてシュヴァルツ",
+      "artist": "GOLDEN BOMBER",
+      "has_synced": true,
+      "path": "select/01_抱きしめてシュヴァルツ_GOLDEN_BOMBER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "抱きしめてシュヴァルツ",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_抱きしめてシュヴァルツ_ゴールデンボンバー.txt"
+    }
+  ]
+}
